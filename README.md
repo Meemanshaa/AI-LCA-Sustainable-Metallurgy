@@ -112,23 +112,25 @@ pip install -r ml/requirements.txt
 npm run dev
 ```
 
-### Impact
--Supports green metallurgy
--Encourages circular economy
--Helps industries reduce carbon footprint
--Fast, scalable & AI-driven decision making
+```md
+### 🌍 Impact
+ Supports green metallurgy
+ Encourages circular economy
+ Helps industries reduce carbon footprint
+ Fast, scalable & AI-driven decision making
 
-### Hackathon Details
--Hackathon: Smart India Hackathon 2025
--Problem ID: SIH25069
--Organization: Ministry of Mines
--Theme: Metallurgy & Circular Economy
+### 🏆 Hackathon Details
+ Hackathon: Smart India Hackathon 2025
+ Problem ID: SIH25069
+ Organization: Ministry of Mines
+ Theme: Metallurgy & Circular Economy
 
-### Future Enhancements
--IoT sensor integration
--Advanced dashboards
--Blockchain traceability
--Multi-language support
 
-### Team
-Developed as part of Smart India Hackathon 2025
+### 🔮 Future Enhancements
+ IoT sensor integration
+ Advanced dashboards
+ Blockchain traceability
+ Multi-language support
+
+### 👨‍💻 Team
+Developed as part of **Smart India Hackathon 2025**
