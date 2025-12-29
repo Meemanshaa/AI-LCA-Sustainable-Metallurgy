@@ -71,6 +71,7 @@ This project provides an AI-driven LCA platform that:
 ---
 
 ## 📁 Project Structure
+
 NueraNova-New-main/
 ├── src/ # React frontend
 ├── backEnd/ # Node.js backend
@@ -104,10 +105,12 @@ npm run dev
 ```
 
 ### Backend
+```bash
 cd backEnd
 npm install
 pip install -r ml/requirements.txt
 npm run dev
+```
 
 ### Impact
 Supports green metallurgy
